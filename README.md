@@ -1,8 +1,3 @@
-# management-simulator
-Simulação de uma Rede de Pizzarias
-
-# Projeto Pizzaria
-
 # Situação
 
 Um empreendedor acabou de receber uma herança de família e deseja fazer um investimento a longo prazo. Após passar por uma consultora de investimentos, foi decidido que uma rede de pizzarias seria o melhor negócio a se fazer, sendo assim, esse empreendedor decidiu que irá iniciar a rede com 5 unidades, ele forneceu detalhes importantes para o desenvolvimento do projeto como as especificações hierárquicas do funcionamento de cada unidade. 
